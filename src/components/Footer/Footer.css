@@ -1,0 +1,27 @@
+.footer {
+  background: rgb(255, 255, 255);
+  max-width: 1200px;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 25px;
+}
+
+.footer__btn_gallary {
+  cursor: pointer;
+}
+
+.footer__btn_add {
+  font-size: 22px;
+  font-weight: 700;
+  color: rgb(185, 185, 185);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.footer__btn_favorites {
+  cursor: pointer;
+}

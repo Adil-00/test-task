@@ -1,0 +1,14 @@
+.favorites__content {
+  min-height: 78vh;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.content__title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 36px;
+  font-weight: 700;
+}

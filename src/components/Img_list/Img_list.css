@@ -1,0 +1,5 @@
+.img_all {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  height: 78vh;
+}
